@@ -1,6 +1,6 @@
-# Having fun with the command line prompt
+# Having fun with the command prompt
 
-Create, remove, list, and read a note with the command line prompt
+Create, remove, list, and read a note with the command prompt
 
 example: 
 
